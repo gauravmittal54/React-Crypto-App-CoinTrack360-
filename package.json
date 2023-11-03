@@ -1,5 +1,6 @@
 {
   "name": "three",
+  "homepage": "https://gauravmittal54/React-Crypto-App-CoinTrack360-",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -12,6 +13,7 @@
     "axios": "^1.1.2",
     "chart.js": "^3.9.1",
     "framer-motion": "^7.5.3",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-chartjs-2": "^4.3.1",
     "react-dom": "^18.2.0",
@@ -21,8 +23,10 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "start": "react-scripts start",
-    "build": "CI=false react-scripts build",
+    "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
