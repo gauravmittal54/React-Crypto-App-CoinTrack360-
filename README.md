@@ -34,23 +34,21 @@ Welcome to CoinTrack360, your trusted source for cryptocurrency information. Thi
 - Framer Motion
 - React Router
 
-## Getting Started
+## Installation
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+1. Clone this repository:
+   ```bash
+   git clone gauravmittal54/User-authentication-project
+   cd User-authentication-project
 
 2. Install dependencies:
+   ```bash
+   npm install
+   
+4. Start the server
+   ```bash
+   npm start
 
-```bash
-npm install
-
-3. Start the development server:
-
-
-npm start
 
 ## Usage
 - Navigate to the Home, Coins, or Exchanges pages using the navigation bar.
