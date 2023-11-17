@@ -1,7 +1,7 @@
 # CoinTrack360 - Cryptocurrency Tracking App
 
 Welcome to CoinTrack360, your trusted source for cryptocurrency information. This React-based web application allows users to explore details about various cryptocurrencies, view top exchanges, and stay updated on the latest market trends.
-
+Hosted link : https://react-crypto-app-cointrack360-production-a08f.up.railway.app/
 
 
 ## Features
