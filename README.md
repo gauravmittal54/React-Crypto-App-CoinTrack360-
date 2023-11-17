@@ -18,7 +18,8 @@ Welcome to CoinTrack360, your trusted source for cryptocurrency information. Thi
 
 ![image](https://github.com/gauravmittal54/React-Crypto-App-CoinTrack360-/assets/61792468/78831644-a984-4809-9406-4b1c5d735d63)
 ![image](https://github.com/gauravmittal54/React-Crypto-App-CoinTrack360-/assets/61792468/8e6ec511-efbb-4af4-96ca-73dfd894726f)
-![Uploading image.png…]()
+![image](https://github.com/gauravmittal54/React-Crypto-App-CoinTrack360-/assets/61792468/6a2e2824-a784-45ee-98fe-ed0ace1fad70)
+
 
 
 
